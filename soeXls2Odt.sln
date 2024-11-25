@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soeXls2Odt", "soeXls2Odt\soeXls2Odt.csproj", "{8A4FDCFE-16D0-4EE7-B59B-FA0438839399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A4FDCFE-16D0-4EE7-B59B-FA0438839399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4FDCFE-16D0-4EE7-B59B-FA0438839399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4FDCFE-16D0-4EE7-B59B-FA0438839399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4FDCFE-16D0-4EE7-B59B-FA0438839399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		                                SolutionGuid = {1E9099E8-CA27-426A-B8A3-AF28CD30793E}
+		SolutionGuid = {E1F22B0F-6699-4322-AA24-8CEE9FB7B240}
+	EndGlobalSection
+EndGlobal
